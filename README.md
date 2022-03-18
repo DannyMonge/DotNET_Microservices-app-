@@ -1,5 +1,3 @@
-> This project is not maintained anymore!!!
-
 # Magazine Website
 
 Coming soon...
@@ -10,7 +8,7 @@ Coming soon...
 
 Clone the repo using Git:
 
-`git clone https://github.com/thangchung/magazine-website.git`
+`git@github.com:DannyMonge/DotNET_Microservices-app-.git`
 
 ## Boot up the whole system
 
